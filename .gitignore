@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Web_bán_hàng_(đồ_án)/Models/Model1.edmx
+/Web_bán_hàng_(đồ_án)/Models/Model1.edmx.diagram
+/Web_bán_hàng_(đồ_án)/Models/Model1.edmx.diagram
